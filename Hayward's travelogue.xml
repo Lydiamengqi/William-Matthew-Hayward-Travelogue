@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../sch/tei_travelogue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>William Matthew Hayward's Travelogue</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1"></pb>
+                <lb/>
+                <p>Arrival at <placeName type="city" style="font-weight: bold; color: blue">Quebec</placeName>, and train journey <placeName type="city" style="font-weight: bold; color: blue">Quebec</placeName> to <placeName type="city" style="font-weight: bold; color: blue">Vancouver</placeName></p>
+                <p><lb/>Arrival at <placeName type="city" style="font-weight: bold; color: blue">Quebec</placeName> about <time type="clock">8.30 p.m.</time> 
+                    <lb/>Ships time. <date n="13th" style="font-style: italic; color: red"> Monday </date> night. 
+                    <lb/>The sight almost beggared description - 
+                    <lb/>land on each side, whilst the
+                    <lb/><hi style="font-weight: bold; color: green">mountains</hi> on each side were numerous, 
+                    <lb/>The land looks like waste, with green 
+                    <lb/>dotted here and there.</p>
+
+                <p><lb/>The day was really glorious, scarcely a 
+                    <lb/>ripple on the sea; whilst just after sea 
+                    <lb/>the <hi style="font-weight: bold; color: orange">sunset</hi> was lovely, particularly 
+                    <lb/>the effects behind the <hi style="font-weight: bold; color: green">mountains</hi>.</p>
+
+                <p><lb/>On deck the effect was beautiful - 
+                    <lb/>lights twinkling all round the
+                    <lb/>harbour, whilst these was not a 
+                    <lb/>ripple on the sea; in fact the effect
+                    <lb/>was even better than the exhibition.</p>
+
+                <p><lb/>Swarms of telegraph lads 
+                    <lb/>came about at night, taking 
+                    <lb/>down messages for relatives etc.
+                    <lb/>when we finally retired after enjoying
+                    <lb/>
+                    
+                <pb n="2"></pb>
+                
+                    <lb/>
+                    <lb/>the view, we were all too excited 
+                    <lb/>to sleep.</p>
+            </div>
+            
+            <div>
+                <lb/>
+                <dateline><date n="14th" style="font-style: italic; color: red"> May 1912 Tuesday </date></dateline>
+                <p><lb/>Up at <time type="clock">4.0 a.m.</time>, and up on deck 
+                    <lb/>at <time type="clock">4.30 a.m.</time>, watching unloading 
+                   <lb/>of cargo, and dodging more and 
+                   <lb/>more telegraph messages.</p>
+                
+                <p><lb/>Breakfasted at <time type="clock">5.0 a.m.</time>, then all 
+                   <lb/>waited impatiently orders to go 
+                   <lb/>ashore.</p>
+                
+                <p><lb/>About <time type="clock">6.30 a.m</time>; we landed and 
+                   <lb/>straightway were ushered to-
+                   <lb/><name type="place" style="font-style: italic; color: green">Immigration Offices</name> (adjoining
+                   <lb/>the quay) where we had our 
+                   <lb/>Rail-Orders examined. We then 
+                   <lb/>had to leave our portable
+                   <lb/>luggage in a large room, 
+                   <lb/>and were herded for Doctors
+                   <lb/>Examination.
+                   <lb/>This consisted of going down a 
+                   <lb/>long passage (men hats off) and
+                 
+                <pb n="3"></pb>
+                   <lb/>
+                   <lb/>
+                   <lb/>the examination consisted of a 
+                   <lb/>nod to focus on.</p>
+                
+                <p><lb/>After being questioned as to means, 
+                   <lb/>we then renewed our mail address,
+                   <lb/>and was then instructed to go to
+                    <lb/><name type="place" style="font-style: italic; color: green">Luggage Dept</name>, to claim same, have
+                   <lb/>it examined by Customs, then to get 
+                   <lb/>ticketed by fly, after which it 
+                   <lb/>would be forwarded.</p>
+                
+                <p><lb/>As we were on the way to the 
+                   <lb/>shed, we were claimed by representative of 
+                   <lb/>various religious <add>bodies</add> and introduction 
+                   <lb/>tickets handed to us by church of 
+                   <lb/>England clergymen whilst we also 
+                   <lb/>received packs etc.</p>
+                
+                <p><lb/>On reaching the luggage shed, 
+                   <lb/>We soon found my box, but
+                   <lb/>not the cases, which after patient 
+                   <lb/>searching we found far away.
+                    <lb/>I soon found a <name type="person" style="font-style: italic; color: green"> Customs official</name>,
+                   <lb/>who asked a question or two,
+                
+                <pb n="4"></pb>
+                   <lb/>
+                   <lb/>
+                   <lb/>and then passed my boxes (I
+                   <lb/>might incidentally mentions that I
+                   <lb/>ripped him <num type="percentage"> 8% </num> at first). After a 
+                   <lb/>slight delay, a small lift arrived
+                    <lb/>up a <name type="person" style="font-style: italic; color: green"> railway officer</name>, who labelled
+                   <lb/>my boxes, so then we returned
+                   <lb/>to our portable luggage.</p>
+                    
+                <p><lb/>We waited for an hour, and 
+                   <lb/>then got on the train, (after making
+                   <lb/>Sunday Journalists) and prepared
+                   <lb/>for our journey, but, to our 
+                   <lb/>dismay, we had a 3 hours wait 
+                   <lb/>'eve stacking.</p>
+                    
+                <p><lb/>A <num type="percentage">2%</num> lift got about 1 ll<note>unit</note> of cheese, 
+                   <lb/>1 ll<note>unit</note> of butter, and 6 small boxes 
+                   <lb/>from the steward, whilst we bought 
+                   <lb/>two loanes here (5 cents each) 2 pieces 
+                   <lb/>of cowned beef (small) a bottle of 
+                    <lb/>milk (10 cents) and other <unclear reason="illegible" cert="low"></unclear>dices
+                   <lb/>A young fellow from Radford (who 
+                   <lb/>knows Mr. <persName style="font-style: italic">Attenllorough</persName>) is with us.
+                
+                 <pb n="5"></pb>
+                   <lb/>
+                   <lb/>
+                   <lb/>and as the train is crowded, 
+                   <lb/>we have arranged to sleep on 
+                   <lb/>the seats (which pull out and meet) 
+                   <lb/>and leave our goods in the 
+                   <lb/>hammock as I should say — 
+                   <lb/>sleeping bed, which is of wood. 
+                   <lb/>no mattress or anything.</p>
+                
+                <p><lb/>We are now moving along 
+                   <lb/>nicely,<note change="deletion">there is a word covered by a black line</note>，the scenery is lovely 
+                   <lb/>and the day beautiful.</p>
+                    
+                <p><lb/><hi style="font-weight: bold; color: green">Fields</hi> abound on every side, with 
+                   <lb/>horses dotted here and there, 
+                    <lb/>and there is a range of <hi style="font-weight: bold; color: green">mountains</hi> 
+                   <lb/>all along one side, which makes
+                   <lb/>a shrinking picture; in fact I keep 
+                   <lb/>looking as I write, and it is 
+                   <lb/>most lovely.</p>
+                    
+                <p><lb/>There is a Canadian opposite us 
+                   <lb/>who has given us many useful 
+                    <lb/>hints, a man from <placeName type="city" style="font-weight: bold; color: blue">Nottingham</placeName> 
+                   <lb/>behind, and a mother and child; </p>
+          
+            </div>
+                
+                
+           <div>   
+                   <pb n="24"></pb>
+                   <lb/>
+                <p>
+                   <lb/>
+                   <lb/>Have now got into the <placeName type="topographical" style="font-weight: bold; color: green">Rockies</placeName>, and 
+                   <lb/>they are a grand sight, but with 
+                   <lb/><unclear/> night, half the charm is 
+                   <lb/>misting, so will attendant to describe 
+                   <lb/>to-morrow.</p>
+           </div>  
+            
+             <div>
+                 <lb/>
+                 <dateline><date style="font-style: italic; color: red">Sunday</date></dateline>
+                 <p><lb/>Just had breakfast + have stopped 
+                     <lb/>half way between <placeName style="font-weight: bold; color: blue"> Calgary</placeName> and 
+                     <lb/><placeName style="font-weight: bold; color: blue">Vancouver</placeName>
+                     <lb/>Was stopped here 2 hours at <time type="clock">2-0 a.m.</time> 
+                    <lb/>shunting to so have been viewing 
+                    <lb/>the scenery since.</p>
+                    
+                 <p><lb/>It is wonderful and needs the 
+                    <lb/>pencil of an artist to describe, 
+                    <lb/>and even then he could not do 
+                    <lb/>it full justice.</p>
+                    
+                 <p><lb/>We have been running through 
+                     <lb/>these vast <hi style="font-weight: bold; color: green">mountains</hi>, with great 
+                    <lb/>peaks flanking on other side, 
+                    <lb/>snow covered, and look perfect 
+                     <lb/>when down in the <hi style="font-weight: bold; color: green">valley</hi> these
+                     
+                 <pb n="25"></pb>
+                    <lb/>
+                    <lb/>
+                    <lb/>are miniature wakes:
+                    <lb/><hi style="font-weight: bold; color: green">falls</hi> and <hi style="font-weight: bold; color: green">streams</hi>, and the 
+                    <lb/>colour is a beautiful sea:
+                    <lb/>blue and it is one constant charm to watch.</p> 
+                     
+                 <p><lb/>Right from the main lines 
+                     <lb/>to the top of the <hi style="font-weight: bold; color: green">mountain</hi> 
+                     <lb/>are huge <hi style="font-weight: bold; color: green">trees</hi>, very much 
+                     <lb/>like his knees, ranging from <num type="cardinal">10</num> to <num type="cardinal">40</num> feet in height.</p> 
+                     
+                 <p><lb/>Have passed through the 
+                    <lb/>Great Loop (picture 5,053)
+                    <lb/>of views 9 am sending,
+                    <lb/>but the view does not 
+                    <lb/>do justice to the scene.
+                    <lb/>The rail looks very 
+                    <lb/>fragile, but is quite safe.
+                    <lb/>We have just passed one 
+                    <lb/>of the prettiest likes of the 
+                     
+                 <pb n="26"></pb>    
+                     <lb/>
+                     <lb/>
+                     <lb/>whole journey.   A <hi style="font-weight: bold; color: green">river</hi> 
+                     <lb/>about as wide as the 
+                     <lb/><unclear reason="illegible" cert="medium"></unclear>ent, with lonely green 
+                     <lb/><hi style="font-weight: bold; color: green">ferns</hi> + <hi style="font-weight: bold; color: green">trees</hi> beyond, whilst 
+                     <lb/>in the back-ground is 
+                     <lb/>these large <hi style="font-weight: bold; color: green">mountains</hi>, with 
+                     <lb/>the peak of the centre one 
+                     <lb/>snow covered - it is more 
+                     <lb/>than beautiful.</p>
+                     
+                  <p><lb/>Again the scenery is — 
+                     <lb/>changed, and we are on 
+                     <lb/>the top of a large <hi style="font-weight: bold; color: green">valley</hi>, 
+                     <lb/>down on our left is voiced 
+                     <lb/>coloured foliage, with little 
+                     <lb/>huts and <hi style="font-weight: bold; color: green">streams</hi> mingled, 
+                     <lb/>whilst to the night are huge 
+                     <lb/><hi style="font-weight: bold; color: green">trees</hi>, with varying coloured 
+                     <lb/>foliage, and a huge 
+                     <lb/><hi style="font-weight: bold; color: green">mountain</hi> frowning down; 
+                     <lb/>On the left hand a descent   
+                     
+                  <pb n="27"></pb>    
+                     <lb/>
+                     <lb/>   
+                     <lb/>bay equal to the Park shops, 
+                     <lb/>on the other a greater height 
+                     <lb/>than Castle Boulder and to the 
+                     <lb/>Castle.</p> 
+                     
+                 <p><lb/>Some of the <hi style="font-weight: bold; color: green">mountains</hi>, 
+                     <lb/>seem to taper into the 
+                     <lb/>very heavens above, and 
+                     <lb/>with the peaks snow covered 
+                     <lb/>the effect is grand, it shows 
+                     <lb/>nature at the next, and 
+                     <lb/>one feels the insignificance 
+                     <lb/>of human beings, against 
+                     <lb/>the works of the almighty.</p>
+                     
+                 <p><lb/>On the <hi style="font-weight: bold; color: green">mountain</hi> sides 
+                     <lb/>are many crevices, and 
+                     <lb/>the heal of the <hi style="font-weight: bold; color: orange">sun</hi> melting 
+                     <lb/>the snow, causes the wakes 
+                     <lb/>to rickle down the vast 
+                      <lb/>heights, into the green <hi style="font-weight: bold; color: green">valleys</hi>
+                     <lb/>below.</p>  
+                     
+                     
+                  <pb n="28"></pb>    
+                  <p><lb/>
+                     <lb/>
+                     <lb/>Have just arrived at <unclear/>
+                     <lb/>There is a nice view here, and 
+                     <lb/>a boat-house, and it looks so 
+                     <lb/>calm and peaceful, and many 
+                      <lb/>people are on the <hi style="font-weight: bold; color: green">river</hi>; the 
+                     <lb/>banks are huge green slopes, and 
+                     <lb/>snow-capped peaks in the 
+                     <lb/>distance add enchantment.</p> 
+                     
+                  <p><lb/>We have been for a very 
+                     <lb/>loving time running alongside 
+                      <lb/>a large <hi style="font-weight: bold; color: green">lake</hi>, called <unclear/>, 
+                     <lb/>and it is an ideal place.</p>
+                     
+                  <p><lb/>Many people have been 
+                     <lb/>getting in + out at stations 
+                     <lb/>during the last 5 hours, some 
+                     <lb/>for fishing, some shooting, others 
+                     <lb/>boating, partying etc.</p>
+                     
+                  <p><lb/>The scenery is indeed 
+                     <lb/>lovely, and more enchanting 
+                     <lb/>spots could not be found.</p>    
+                     
+            </div>   
+            
+        </body>
+        
+    </text>
+</TEI>
